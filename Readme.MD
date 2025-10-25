@@ -1,0 +1,1 @@
+1. Write a script file that reads a text file and count the occurences of each word , displaying the top 5 most frequent words along with their counts
